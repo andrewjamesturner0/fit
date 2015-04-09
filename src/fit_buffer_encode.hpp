@@ -21,6 +21,7 @@
 #include <iosfwd>
 #include <sstream>
 #include <string>
+#include <string.h>
 #include "fit.hpp"
 #include "fit_mesg.hpp"
 #include "fit_mesg_definition.hpp"
